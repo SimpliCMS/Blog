@@ -4,7 +4,7 @@ namespace Modules\Blog\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
-class BlogPreferencesProvider extends ServiceProvider
+class BlogPreferencesServiceProvider extends ServiceProvider
 {
     
     /**
